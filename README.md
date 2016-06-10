@@ -3,7 +3,7 @@ Simple scripts for handling password file encryption / decryption using the popu
 
 Setup:
  - make sure you make the scripts executable.
- - chmod u+x [file]
+ - $> chmod u+x [file]
 
 Encrypting:
  - $> nano pswds_tempout.txt
