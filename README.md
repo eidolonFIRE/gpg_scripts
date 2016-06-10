@@ -2,7 +2,7 @@
 Simple scripts for handling password file encryption / decryption using the popular gpg tool.
 
 Setup:
- - make sure you make the scripts executable.
+ - Make sure you scripts are executable.
  - $> chmod u+x [file]
 
 Encrypting:
